@@ -1,0 +1,15 @@
+{
+  "name": "changing-background",
+  "version": "1.0.0",
+  "description": "Changing background (HTML, CSS, JS)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo Anta",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-prettier": "^8.1.0"
+  }
+}
